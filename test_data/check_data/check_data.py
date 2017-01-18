@@ -360,6 +360,19 @@ shipWithoutCoupon_data={
 
 
 }
+'''查询发货单列表'''
+query_data={
+    'api_key':'9R3coFDrgBiEZUQG2PZmqTXMjiT2wU6o',
+    'timestamp':times,
+    'supplierId':'13'
+
+}
+CouponCode_data={
+    'api_key':'9R3coFDrgBiEZUQG2PZmqTXMjiT2wU6o',
+    'timestamp':times,
+
+
+}
 
 
 

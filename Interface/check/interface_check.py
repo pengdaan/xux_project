@@ -44,6 +44,10 @@ class MyTest(unittest.TestCase):
         self.OutOrderSn_url='http://www.xiaoshuxiong.com/api/order/setOutOrderSn'
         self.ChildOrderTour_url='http://www.xiaoshuxiong.com/api/order/getChildOrderTour'
         self.shipWithoutCoupon_url='http://www.xiaoshuxiong.com/api/ocoupon/shipWithoutCoupon'
+        self.query_url='http://www.xiaoshuxiong.com/api/delivery/query'
+        self.ByCouponCode_url='http://www.xiaoshuxiong.com/api/ocoupon/getByCouponCode'
+
+
 
 
 
